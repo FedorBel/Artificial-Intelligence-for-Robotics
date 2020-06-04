@@ -1,2 +1,2 @@
-# Localize robot in a 2D circlic world
+# Localize robot in a 2D cyclic world
 

@@ -1,4 +1,4 @@
-# Localize robot in a 1D circle world
+# Localize robot in a 1D cyclic world
 
 p=[0.2, 0.2, 0.2, 0.2, 0.2]
 world=['green', 'red', 'red', 'green', 'green']
