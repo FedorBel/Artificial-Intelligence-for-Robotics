@@ -101,5 +101,5 @@ result = search(grid, init, goal, cost, heuristic)
 # for line in test:
 #     print(line)
 
-# for line in result:
-#     print(line)
+for line in result:
+    print(line)
